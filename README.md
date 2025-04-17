@@ -10,12 +10,12 @@ Not just to go off to the sun for a few weeks, but to potentially rebuild everyt
 
 I want to make this decision thoughtfully, and with concrete data. So this project will help me analyze several essential aspects:
 
-The weather, of course, first - to identify places where the light and climate suit me.
+1.  The **weather**, of course, first - to identify places where the light and climate suit me.
 
-But also the job market, because you can't live on hot air alone.
+2. But also the **job market**, because you can't live on hot air alone.
 
-The cost of living and purchasing power, to avoid unpleasant surprises.
+3. The **cost of living and purchasing power**, to avoid unpleasant surprises.
 
-And accessibility by plane, because staying connected to my roots in Belgium remains important.
+4. And **accessibility** by plane, because staying connected to my roots in Belgium remains important.
 
 This is the kind of project you don't do just for the technicalities, but because it makes sense. And I want to build it properly, like a real data engineering project, with a robust, automated architecture that can be easily reused later.
